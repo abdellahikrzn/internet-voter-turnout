@@ -1,0 +1,16 @@
+Country Name,Country Code,Region,Election_Type,Election_Year,Registered_Voters_M,Voter_Turnout_Pct
+Rwanda,RWA,Sub-Saharan Africa,Presidential,2024,9.0,98.0
+Tunisia,TUN,Middle East & North Africa,Presidential,2024,9.8,90.8
+Botswana,BWA,Sub-Saharan Africa,General,2019,0.93,72.0
+Ghana,GHA,Sub-Saharan Africa,Presidential,2024,18.8,68.7
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Presidential,2024,67.0,66.8
+Kenya,KEN,Sub-Saharan Africa,Presidential,2022,22.1,64.6
+Senegal,SEN,Sub-Saharan Africa,Presidential,2024,7.3,61.2
+South Africa,ZAF,Sub-Saharan Africa,General,2024,27.7,58.6
+Uganda,UGA,Sub-Saharan Africa,Presidential,2021,18.1,57.6
+Zimbabwe,ZWE,Sub-Saharan Africa,General,2023,6.3,55.9
+Tanzania,TZA,Sub-Saharan Africa,General,2020,29.4,49.9
+Mozambique,MOZ,Sub-Saharan Africa,General,2024,8.0,45.8
+Ethiopia,ETH,Sub-Saharan Africa,General,2021,37.1,37.1
+Morocco,MAR,Middle East & North Africa,Parliamentary,2021,17.6,37.1
+Nigeria,NGA,Sub-Saharan Africa,Presidential,2023,93.5,28.6
