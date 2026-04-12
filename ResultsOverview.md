@@ -1,4 +1,4 @@
-# Internet Access vs Voter Turnout: 15 African Countries
+# Does Internet Acess Increase Voter Turnout? Evidence from 15 African countries
 
 ## Research Question
 Does higher internet access correlate with higher voter turnout in African countries?
